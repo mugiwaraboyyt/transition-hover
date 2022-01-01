@@ -3,5 +3,7 @@
 <figure class="video container">
     <video controls="true" allowfullscreen="true">
         <source src="./img/Output.mp4" type="video/mp4">
+        <source src="./img/Output.ogg" type="video/ogg">
+        <source src="./img/Output.webm" type="video/webm">
     </video>
 </figure>
